@@ -1,4 +1,3 @@
-<div style="text-algin:center;">dasdasd</div>
 # 💫 About Me:
 ⚡ Beginner programmer.<br>🔭 The next level -> pragmatic programmer.  <br>🤝 The path from student to master.<br>
 
